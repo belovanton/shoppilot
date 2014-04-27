@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Komplizierte_Shoppilot>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Komplizierte_Shoppilot>
+    </modules>
+</config>
